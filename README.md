@@ -1,2 +1,2 @@
-# 4DMR2025
-Homepage for The 1st Challenge and Workshop for 4D Micro-Expression Recognition for Mind Reading (4DMR) 
+# 4DMR2026
+Homepage for The 2nd Challenge and Workshop for 4D Micro-Expression Analysis for Mind Reading (4DMR) 
