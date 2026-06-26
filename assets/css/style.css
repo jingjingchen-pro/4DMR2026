@@ -529,6 +529,14 @@ body {
 
 .profess-cover {
   padding: 20px 0px; }
+  .profess-cover .invited-speaker-photo {
+    width: 100%;
+    max-width: 200px;
+    height: 230px;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+    margin: 0 auto; }
   .profess-cover .prog-row {
     width: 100%;
     text-align: left;
